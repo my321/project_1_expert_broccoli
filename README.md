@@ -22,7 +22,12 @@ In this project, we present a strategy for the WomenTechWomenYes Street Team of 
 
 Jupyter Notebooks, Web browsers, Pandas, Matplotlib, Google Slides, Slack, Zoom, Typora.
 
-**Data source:** http://web.mta.info/developers/turnstile.html (accessed on 1/5/2021)
+**Data Sources:**
+
+MTA ridership data: http://web.mta.info/developers/turnstile.html 
+
+Income data: https://www.census.gov/quickfacts/newyorkcitynewyork
+
 
 **Possible Impacts of this Project:**
 
